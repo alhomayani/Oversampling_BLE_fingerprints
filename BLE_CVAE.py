@@ -1,3 +1,5 @@
+# code inspired from: R. Atienza,Advanced Deep Learning with Keras: Apply deep learningtechniques,  autoencoders,  GANs,  variational  autoencoders,  deep  rein-forcement learning, policy gradients, and more.
+
 import numpy as np
 from keras.layers import Input, Dense, Lambda, Flatten, Conv2D, Conv2DTranspose, MaxPooling2D, \
     UpSampling2D, Reshape, concatenate, BatchNormalization
