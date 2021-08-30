@@ -1,3 +1,5 @@
+# code inspired from: https://keras.io/examples/generative/vae/
+
 import numpy as np
 import tensorflow as tf
 from tensorflow import keras
